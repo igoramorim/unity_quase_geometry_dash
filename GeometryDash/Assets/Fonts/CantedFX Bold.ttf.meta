@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 93898dc1a9616874cb290d999f31c075
+timeCreated: 1494858722
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Canted FX
+  fontNames:
+  - Canted FX
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
